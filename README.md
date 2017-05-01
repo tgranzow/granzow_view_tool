@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+GranzowViewTool::Renderer.copyright 'Talia Granzow', 'All rights reserved'
+```
 
 ## Development
 
